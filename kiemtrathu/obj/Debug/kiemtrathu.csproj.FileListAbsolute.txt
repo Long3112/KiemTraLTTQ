@@ -1,0 +1,10 @@
+D:\nam 3\kiemtrathu\kiemtrathu\bin\Debug\kiemtrathu.exe.config
+D:\nam 3\kiemtrathu\kiemtrathu\bin\Debug\kiemtrathu.exe
+D:\nam 3\kiemtrathu\kiemtrathu\bin\Debug\kiemtrathu.pdb
+D:\nam 3\kiemtrathu\kiemtrathu\obj\Debug\kiemtrathu.csproj.AssemblyReference.cache
+D:\nam 3\kiemtrathu\kiemtrathu\obj\Debug\kiemtrathu.Form1.resources
+D:\nam 3\kiemtrathu\kiemtrathu\obj\Debug\kiemtrathu.Properties.Resources.resources
+D:\nam 3\kiemtrathu\kiemtrathu\obj\Debug\kiemtrathu.csproj.GenerateResource.cache
+D:\nam 3\kiemtrathu\kiemtrathu\obj\Debug\kiemtrathu.csproj.CoreCompileInputs.cache
+D:\nam 3\kiemtrathu\kiemtrathu\obj\Debug\kiemtrathu.exe
+D:\nam 3\kiemtrathu\kiemtrathu\obj\Debug\kiemtrathu.pdb
